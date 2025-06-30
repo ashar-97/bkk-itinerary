@@ -32,7 +32,7 @@
 pip install -r requirements.txt
 streamlit run app_v2.py
 
-🚧 Work in Progress
+## 🚧 Work in Progress
 
 This app is actively under development.
 
