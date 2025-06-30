@@ -1,45 +1,33 @@
-# Bangkok Travel Planner 🗺️
+# 🗺️ Bangkok Itinerary App (WIP)
 
-**Status:** 🚧 Work in Progress  
-**Tech Stack:** Python, Streamlit, Folium/Plotly, Pandas
+> A visual, tag-based travel planner for Bangkok — powered by Python and Streamlit.
 
-## ✈️ About
+![Status](https://img.shields.io/badge/status-in%20progress-yellow)
+![Built with Python](https://img.shields.io/badge/built%20with-Python-3776AB?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/framework-Streamlit-red)
 
-A personal project to help visualise and plan travel activities in Bangkok.  
-The app maps key destinations using custom tags like Cafe, Market, Nature, and more, making it easier to organise an itinerary visually and interactively.
+---
 
-## ✅ Features Done
-- Interactive map with destination pins
-- Toggle labels and category filters
-- Color-coded tags for types of locations
-- Reset map view button
+## ✨ Features So Far
 
-## 🔜 Features Coming Soon
-- Custom icons for each tag
-- Callout and description boxes for selected locations
-- Mobile-friendly design
-- Save/share itinerary view
+- Interactive map using category tags (e.g. Café, Market, Nature)
+- Toggle label display
+- Custom tag colors
+- Reset map button
 
-## 📸 Screenshots (Coming Soon)
-_Add images or mockups here once available_
+---
 
-## 📂 Folder Structure
-## 💡 Why This Project
+## 🧠 Coming Soon
 
-This app combines my love for travel with technical skills in data visualisation and app development.  
-It's also an exercise in building my portfolio using version control, deployment, and user-friendly design.
+- Unique icons per category
+- Callout + description boxes when locations are selected
+- Mobile layout optimisation
+- Final polish and visual theming
 
-## 🛠️ How to Run Locally
+---
+
+## 💻 How to Run Locally
 
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
----
-
-### 💾 4. Commit Your Work
-
-Back in Terminal:
-
-```bash
-git add .
-git commit -m "Initial commit: added BKK travel app files and WIP README"
+streamlit run app_v2.py
