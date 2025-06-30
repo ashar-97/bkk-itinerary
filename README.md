@@ -31,3 +31,19 @@
 ```bash
 pip install -r requirements.txt
 streamlit run app_v2.py
+
+🚧 Work in Progress
+
+This app is actively under development.
+
+Here’s what’s currently in the pipeline:
+	•	Display interactive map with locations by category
+	•	Color-coded tag system
+	•	Add custom icons per tag
+	•	Show callout box and location description on click
+	•	Responsive mobile layout
+	•	Toggleable category filters
+	•	User-friendly styling and design polish
+	•	Streamlit Cloud deployment
+
+I’m committing updates regularly and tracking changes here as I go. You can watch this space or star the repo to follow updates.
